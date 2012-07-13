@@ -1,0 +1,226 @@
+{
+"fm": {
+"origin": "http://fm.gaiamobile.org",
+"installOrigin": "http://fm.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://fm.gaiamobile.org/manifest.webapp",
+"localId": 1
+},
+"gallery": {
+"origin": "http://gallery.gaiamobile.org",
+"installOrigin": "http://gallery.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://gallery.gaiamobile.org/manifest.webapp",
+"localId": 2
+},
+"contacts": {
+"origin": "http://contacts.gaiamobile.org",
+"installOrigin": "http://contacts.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://contacts.gaiamobile.org/manifest.webapp",
+"localId": 3
+},
+"clock": {
+"origin": "http://clock.gaiamobile.org",
+"installOrigin": "http://clock.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://clock.gaiamobile.org/manifest.webapp",
+"localId": 4
+},
+"homescreen": {
+"origin": "http://homescreen.gaiamobile.org",
+"installOrigin": "http://homescreen.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://homescreen.gaiamobile.org/manifest.webapp",
+"localId": 5
+},
+"calendar": {
+"origin": "http://calendar.gaiamobile.org",
+"installOrigin": "http://calendar.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://calendar.gaiamobile.org/manifest.webapp",
+"localId": 6
+},
+"browser": {
+"origin": "http://browser.gaiamobile.org",
+"installOrigin": "http://browser.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://browser.gaiamobile.org/manifest.webapp",
+"localId": 7
+},
+"keyboard": {
+"origin": "http://keyboard.gaiamobile.org",
+"installOrigin": "http://keyboard.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://keyboard.gaiamobile.org/manifest.webapp",
+"localId": 8
+},
+"email": {
+"origin": "http://email.gaiamobile.org",
+"installOrigin": "http://email.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://email.gaiamobile.org/manifest.webapp",
+"localId": 9
+},
+"music": {
+"origin": "http://music.gaiamobile.org",
+"installOrigin": "http://music.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://music.gaiamobile.org/manifest.webapp",
+"localId": 10
+},
+"video": {
+"origin": "http://video.gaiamobile.org",
+"installOrigin": "http://video.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://video.gaiamobile.org/manifest.webapp",
+"localId": 11
+},
+"sms": {
+"origin": "http://sms.gaiamobile.org",
+"installOrigin": "http://sms.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://sms.gaiamobile.org/manifest.webapp",
+"localId": 12
+},
+"system": {
+"origin": "http://system.gaiamobile.org",
+"installOrigin": "http://system.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://system.gaiamobile.org/manifest.webapp",
+"localId": 13
+},
+"camera": {
+"origin": "http://camera.gaiamobile.org",
+"installOrigin": "http://camera.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://camera.gaiamobile.org/manifest.webapp",
+"localId": 14
+},
+"calculator": {
+"origin": "http://calculator.gaiamobile.org",
+"installOrigin": "http://calculator.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://calculator.gaiamobile.org/manifest.webapp",
+"localId": 15
+},
+"dialer": {
+"origin": "http://dialer.gaiamobile.org",
+"installOrigin": "http://dialer.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://dialer.gaiamobile.org/manifest.webapp",
+"localId": 16
+},
+"settings": {
+"origin": "http://settings.gaiamobile.org",
+"installOrigin": "http://settings.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://settings.gaiamobile.org/manifest.webapp",
+"localId": 17
+},
+"template": {
+"origin": "http://template.gaiamobile.org",
+"installOrigin": "http://template.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://template.gaiamobile.org/manifest.webapp",
+"localId": 18
+},
+"uitest": {
+"origin": "http://uitest.gaiamobile.org",
+"installOrigin": "http://uitest.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://uitest.gaiamobile.org/manifest.webapp",
+"localId": 19
+},
+"test-agent": {
+"origin": "http://test-agent.gaiamobile.org",
+"installOrigin": "http://test-agent.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://test-agent.gaiamobile.org/manifest.webapp",
+"localId": 20
+},
+"penguinpop": {
+"origin": "http://penguinpop.gaiamobile.org",
+"installOrigin": "http://penguinpop.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://penguinpop.gaiamobile.org/manifest.webapp",
+"localId": 21
+},
+"crystalskull": {
+"origin": "http://crystalskull.gaiamobile.org",
+"installOrigin": "http://crystalskull.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://crystalskull.gaiamobile.org/manifest.webapp",
+"localId": 22
+},
+"cuttherope": {
+"origin": "http://cuttherope.gaiamobile.org",
+"installOrigin": "http://cuttherope.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://cuttherope.gaiamobile.org/manifest.webapp",
+"localId": 23
+},
+"towerjelly": {
+"origin": "http://towerjelly.gaiamobile.org",
+"installOrigin": "http://towerjelly.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://towerjelly.gaiamobile.org/manifest.webapp",
+"localId": 24
+},
+"tasks": {
+"origin": "http://tasks.gaiamobile.org",
+"installOrigin": "http://tasks.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://tasks.gaiamobile.org/manifest.webapp",
+"localId": 25
+},
+"cubevid": {
+"origin": "http://cubevid.gaiamobile.org",
+"installOrigin": "http://cubevid.gaiamobile.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "http://cubevid.gaiamobile.org/manifest.webapp",
+"localId": 26
+},
+"marketplace": {
+"origin": "https://marketplace.mozilla.org",
+"installOrigin": "https://marketplace.mozilla.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "https://marketplace.mozilla.org/manifest.webapp",
+"localId": 27
+},
+"marketplace-dev": {
+"origin": "https://marketplace-dev.allizom.org",
+"installOrigin": "https://marketplace-dev.allizom.org",
+"receipt": null,
+"installTime": 132333986000,
+"manifestURL": "https://marketplace-dev.allizom.org/manifest.webapp",
+"localId": 28
+}
+}

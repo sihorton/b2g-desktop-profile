@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# Version 012903a9b8f7065fa46c3e9b556d4221
+index.html
+js/camera.js
+
+manifest.webapp
+style/camera.css
+style/icons/60/Camera.png
+style/icons/Camera.png
+style/images/camera.png
+style/images/grid.png
+style/images/video.png
+test/unit/_proxy.html
+test/unit/_sandbox.html
+http://gaiamobile.org/webapi.js
+NETWORK:
+http://*
+https://*

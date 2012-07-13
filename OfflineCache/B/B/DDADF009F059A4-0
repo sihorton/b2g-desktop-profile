@@ -1,0 +1,29 @@
+CACHE MANIFEST
+# Version 708d434ed534362518504f9f04e682c7
+index.html
+js/fm.js
+locale/fm.ar.properties
+locale/fm.ca.properties
+locale/fm.de.properties
+locale/fm.el.properties
+locale/fm.en-US.properties
+locale/fm.es.properties
+locale/fm.fr.properties
+locale/fm.it.properties
+locale/fm.pt-BR.properties
+locale/fm.ru.properties
+locale/fm.tr.properties
+locale/fm.zh-TW.properties
+locale/l10n.ini
+
+manifest.webapp
+style/fm.css
+style/icons/60/Fm.png
+style/icons/Fm.png
+style/image/app-texture.png
+test/unit/_proxy.html
+test/unit/_sandbox.html
+http://gaiamobile.org/webapi.js
+NETWORK:
+http://*
+https://*

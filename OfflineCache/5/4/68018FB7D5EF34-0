@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# Version 4578782a55ca58fc173c3dcbdd97ac7f
+glUtils.js
+index.html
+
+manifest.webapp
+mozilla.webm
+style/icons/60/Cubevid.png
+style/icons/Cubevid.png
+sylvester.js
+test/unit/_proxy.html
+test/unit/_sandbox.html
+webgl-demo.js
+webgl.css
+http://gaiamobile.org/webapi.js
+NETWORK:
+http://*
+https://*

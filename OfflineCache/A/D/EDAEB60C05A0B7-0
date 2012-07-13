@@ -1,0 +1,34 @@
+CACHE MANIFEST
+# Version 67c17ce1db631b37ec620706f92157d8
+index.html
+js/ext/README
+js/ext/id3-minimized.js
+js/ext/ogg.js
+js/music.js
+js/utils.js
+locale/l10n.ini
+locale/music.ar.properties
+locale/music.ca.properties
+locale/music.de.properties
+locale/music.el.properties
+locale/music.en-US.properties
+locale/music.es.properties
+locale/music.fr.properties
+locale/music.it.properties
+locale/music.pt-BR.properties
+locale/music.ru.properties
+locale/music.tr.properties
+locale/music.zh-TW.properties
+
+manifest.webapp
+style/fonts/Open-Sans-Bold.woff
+style/fonts/Open-Sans.woff
+style/icons/60/Music.png
+style/icons/Music.png
+style/music.css
+test/unit/_proxy.html
+test/unit/_sandbox.html
+http://gaiamobile.org/webapi.js
+NETWORK:
+http://*
+https://*

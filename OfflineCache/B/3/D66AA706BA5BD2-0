@@ -1,0 +1,29 @@
+CACHE MANIFEST
+# Version 9cd311b92a7a008c9b39eb44a29f7a29
+data/fakecontacts/LICENSE
+data/fakecontacts/fakecontacts.json
+index.html
+js/contacts.js
+js/uitest.js
+
+manifest.webapp
+style/fonts/Open-Sans-Bold.woff
+style/fonts/Open-Sans-Semibold.woff
+style/fonts/Open-Sans.woff
+style/icons/Uitest.png
+style/images/app-texture.png
+style/uitest.css
+test/unit/_proxy.html
+test/unit/_sandbox.html
+tests/alert.html
+tests/contacts.html
+tests/empty.html
+tests/keyboard.html
+tests/notification.html
+tests/open.html
+tests/popup.html
+tests/scrollbar.html
+http://gaiamobile.org/webapi.js
+NETWORK:
+http://*
+https://*

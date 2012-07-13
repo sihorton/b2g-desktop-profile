@@ -1,0 +1,14 @@
+CACHE MANIFEST
+# Version a4285ba21f6e0105886e29924a4faa9f
+index.html
+
+manifest.webapp
+style/cuttherope.css
+style/icons/60/Cuttherope.png
+style/icons/Cuttherope.png
+test/unit/_proxy.html
+test/unit/_sandbox.html
+http://gaiamobile.org/webapi.js
+NETWORK:
+http://*
+https://*

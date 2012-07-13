@@ -1,0 +1,36 @@
+CACHE MANIFEST
+# Version 55c9da4bdc960f5f48836fa841b700c3
+index.html
+js/db.js
+js/tasks.js
+locale/l10n.ini
+locale/tasks.ar.properties
+locale/tasks.ca.properties
+locale/tasks.de.properties
+locale/tasks.el.properties
+locale/tasks.en-US.properties
+locale/tasks.es.properties
+locale/tasks.fr.properties
+locale/tasks.it.properties
+locale/tasks.pt-BR.properties
+locale/tasks.ru.properties
+locale/tasks.tr.properties
+locale/tasks.zh-TW.properties
+
+manifest.webapp
+style/fonts/Open-Sans-Bold.woff
+style/fonts/Open-Sans.woff
+style/icons/60/Tasks.png
+style/icons/Tasks.png
+style/icons/done_task_ta.png
+style/icons/task_ta.png
+style/images/app-texture.png
+style/images/checked.png
+style/tasks.css
+style/ui.css
+test/unit/_proxy.html
+test/unit/_sandbox.html
+http://gaiamobile.org/webapi.js
+NETWORK:
+http://*
+https://*

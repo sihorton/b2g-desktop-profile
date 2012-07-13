@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# Version 008b5935715810b9da8ddf5fc9e0a707
+index.html
+js/calculator.js
+
+manifest.webapp
+style/calculator.css
+style/fonts/Open-Sans-Bold.woff
+style/fonts/Open-Sans-Semibold.woff
+style/fonts/Open-Sans.woff
+style/icons/60/Calculator.png
+style/icons/Calculator.png
+style/images/home-texture.png
+test/unit/_proxy.html
+test/unit/_sandbox.html
+http://gaiamobile.org/webapi.js
+NETWORK:
+http://*
+https://*
