@@ -1,21 +1,18 @@
+Quick Start:
+------------
+
+If you want to try out b2g-desktop on windows then try the installer at https://github.com/downloads/sihorton/b2g-desktop-profile-installer/b2g-gaia-desktop.exe
+or the portable version https://github.com/downloads/sihorton/b2g-desktop-profile-installer/b2g-portable.exe.
+
 b2g-desktop-profile
 ===================
 
-This repository will help you to get the boot 2 gecko desktop client running out of the box on windows.
+This repository contains a pre-compiled gaia profile made from https://github.com/mozilla-b2g/gaia/ using the compilation
+instructions from https://developer.mozilla.org/en/Mozilla/Boot_to_Gecko/Building_Boot_to_Gecko. This compilation
+was performed on a ubuntu machine and the results added to this repository so that it can be used by windows machines.
 
-1) download desktop client (the file should end in .win32.zip) from http://ftp.mozilla.org/pub/mozilla.org/b2g/nightly/latest-mozilla-central/
-    
-2) Unzip the download, this will create a b2g folder.
-
-3) Download a zip of this project and extract into b2g\b2g-desktop-profile folder.
-
-4) Run b2g\b2g-desktop-profile\install.bat
-
-The bat file will fix the missing gkmedias.dll file problem, supply a pre-cached set of applications in the profile and then run the b2g application.
-
-
-install.bat only needs to be run once, to run b2g-desktop just click on b2g-profile.bat in the b2g directory.
-
-If you are running 64-bit windows and get an error message saying "MSVCP100.dll missing" then you will need to install the Microsoft Visual C++ 2010 Redistributable Package (x86).
-This is available for free from the following link: http://www.microsoft.com/download/en/confirmation.aspx?id=5555
+Updating the repository:
+------------------------
+To update the repository to include latest version of gaia follow the instructions at https://developer.mozilla.org/en/Mozilla/Boot_to_Gecko/Building_Boot_to_Gecko 
+on linux or mac. The make step will create a profile directory. Copy the contents of the directory into this repository.
 
