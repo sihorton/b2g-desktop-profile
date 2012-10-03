@@ -3,3 +3,8 @@ user_pref("browser.homescreenURL", "app://system.gaiamobile.org/index.html");
 user_pref("dom.send_after_paint_to_content", true);
 user_pref("network.http.max-connections-per-server", 15);
 user_pref("network.dns.localDomains", "gaiamobile.org,fm.gaiamobile.org,gallery.gaiamobile.org,clock.gaiamobile.org,homescreen.gaiamobile.org,calendar.gaiamobile.org,wallpaper.gaiamobile.org,browser.gaiamobile.org,keyboard.gaiamobile.org,email.gaiamobile.org,music.gaiamobile.org,video.gaiamobile.org,sms.gaiamobile.org,system.gaiamobile.org,costcontrol.gaiamobile.org,feedback.gaiamobile.org,camera.gaiamobile.org,calculator.gaiamobile.org,communications.gaiamobile.org,pdfjs.gaiamobile.org,settings.gaiamobile.org,test-sensors.gaiamobile.org,test-receiver-inline.gaiamobile.org,template.gaiamobile.org,uitest.gaiamobile.org,test-agent.gaiamobile.org,test-receiver-1.gaiamobile.org,test-receiver-2.gaiamobile.org,share-receiver.gaiamobile.org,image-uploader.gaiamobile.org,penguinpop.gaiamobile.org,crystalskull.gaiamobile.org,towerjelly.gaiamobile.org,tasks.gaiamobile.org,cubevid.gaiamobile.org");
+pref("dom.payment.provider.0.name", "mockpayprovider");
+pref("dom.payment.provider.0.description", "Mock Payment Provider");
+pref("dom.payment.provider.0.type", "mock/payments/inapp/v1");
+pref("dom.payment.provider.0.uri", "https://mockpayprovider.phpfogapp.com/?req=");
+pref("dom.payment.provider.0.requestMethod", "GET");
